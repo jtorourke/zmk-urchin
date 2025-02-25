@@ -75,10 +75,10 @@
 			key-positions = <11 12>;
 			bindings = <&kp DEL>;
 		};
-		// O + P
+		// I + O
 		combo_backspace {
 			timeout-ms = <200>;
-			key-positions = <8 9>;
+			key-positions = <7 8>;
 			bindings = <&kp BSPC>;
 		};
 		// K + L
