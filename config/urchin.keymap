@@ -60,30 +60,35 @@
 		// Q + W
 		combo_esc {
 			timeout-ms = <200>;
+			layers = <0>;
 			key-positions = <0 1>;
 			bindings = <&kp ESC>;
 		};
 		// W + E
 		combo_tab {
 			timeout-ms = <200>;
+			layers = <0>;
 			key-positions = <1 2>;
 			bindings = <&kp TAB>;
 		};
 		// S + D
 		combo_del {
 			timeout-ms = <200>;
+			layers = <0>;
 			key-positions = <11 12>;
 			bindings = <&kp DEL>;
 		};
 		// I + O
 		combo_backspace {
 			timeout-ms = <200>;
+			layers = <0>;
 			key-positions = <7 8>;
 			bindings = <&kp BSPC>;
 		};
 		// K + L
 		combo_enter {
 			timeout-ms = <200>;
+			layers = <0>;
 			key-positions = <17 18>;
 			bindings = <&kp RET>;
 		};
