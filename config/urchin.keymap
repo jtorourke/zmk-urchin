@@ -24,7 +24,7 @@
 };
 
 &mt {
-    tapping-term-ms = <400>;
+    tapping-term-ms = <600>;
 };
 
 
@@ -38,8 +38,8 @@
 			label = "QUICK_TAP";
 			#binding-cells = <2>;
 			flavor = "hold-preferred";
-			tapping-term-ms = <400>;
-			quick-tap-ms = <400>;
+			tapping-term-ms = <600>;
+			quick-tap-ms = <600>;
 			bindings = <&kp>, <&kp>;
 		};
 	};
